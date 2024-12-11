@@ -33,8 +33,16 @@ namespace Project2
 
             #endregion
 
-            #region
+            #region Variable
+            //5
+            // int Number = 5 ;
 
+            #endregion
+
+            #region CTS - CLS
+            int x = 5; // 4 Bytes
+            string Name = "test"; // 8 Bytes 
+            Name = "Ali"; // 6 Bytes
             #endregion
         }
     }
