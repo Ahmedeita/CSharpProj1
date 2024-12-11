@@ -40,9 +40,21 @@ namespace Project2
             #endregion
 
             #region CTS - CLS
-            int x = 5; // 4 Bytes
-            string Name = "test"; // 8 Bytes 
-            Name = "Ali"; // 6 Bytes
+            //int x = 5; // 4 Bytes
+            //string Name = "test"; // 8 Bytes 
+            //Name = "Ali"; // 6 Bytes
+            #endregion
+
+            #region Value Type
+            //int x; //4 Byte
+            //Console.WriteLine(X);
+            //X=4;
+            //int Y = 9; //4Byte
+            //Y = X;//4 BYTE
+            //X++;
+            //Console.WriteLine(X);
+            //Console.WriteLine(Y);
+
             #endregion
         }
     }
