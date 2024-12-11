@@ -56,6 +56,17 @@ namespace Project2
             //Console.WriteLine(Y);
 
             #endregion
+
+            #region Reference Type
+            //Point P01;
+            //P01 = new Point();  
+            // Point P02 = new Point();
+            //P02 = P01;
+
+            //P01.x = 10;
+            //Console.WriteLine(P02.x);
+
+            #endregion
         }
     }
 }
