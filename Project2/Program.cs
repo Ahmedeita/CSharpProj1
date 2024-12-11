@@ -85,6 +85,16 @@ namespace Project2
             //Console.WriteLine(obj02.GetHashCode());
 
             #endregion
+
+            #region Fractions and Discard
+            //int Num01 = 12336444444; // Integer overflow
+            //long Num02 = 12336444444;
+            //double Num03 = 22.2;
+            //float Num04 = 22.2F;
+            //decimal Num05 = 22.2m;
+            //int Num06 = 1_000_000;
+            //Console.WriteLine(Num06);
+            #endregion
         }
     }
 }
