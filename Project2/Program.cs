@@ -67,6 +67,24 @@ namespace Project2
             //Console.WriteLine(P02.x);
 
             #endregion
+
+            #region Object
+            //Point P01 = new Point();
+            //P01.
+            //object obj01 = new object();
+            //obj = 1;
+            //obj = "Hello";
+            //obj = 'A';
+            //obj = true;
+            //object obj02 = new object();
+            //Console.WriteLine(obj01.GetHashCode());
+            //Console.WriteLine(obj02.GetHashCode());
+            //obj02= obj01
+            //Console.WriteLine("*********************");
+            //Console.WriteLine(obj01.GetHashCode());
+            //Console.WriteLine(obj02.GetHashCode());
+
+            #endregion
         }
     }
 }
