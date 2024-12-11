@@ -9,9 +9,16 @@
             //Console.Write("Enter a number :  ");
             //EnteredValue = int.Parse(Console.ReadLine()); 
             //Console.WriteLine(EnteredValue);
-            //Console.ReadKey();
+           
             #endregion
             #region 2- Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
+           // int x = 10; //Define 1st variable
+           // int y = 5; //Define 2nd variable
+          //  y = x; //assign x to y
+          //  x = 87; // modify x
+           // Console.WriteLine("x = "+ x + "y = "+y);
+            // when we print we found y still with assigned value
+            // because it's value type and didn't feel the Modification on the othe value
 
             #endregion
 
