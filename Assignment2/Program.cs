@@ -27,19 +27,19 @@
             #endregion
 
             #region 3-	Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
-            Reference R1 = new Reference(); // Define 1st Variable
-            Reference R2 = R1;                       // Define 2nd Variable and assign variable 1 to variable 2
+            //Reference R1 = new Reference(); // Define 1st Variable
+            //Reference R2 = R1;                       // Define 2nd Variable and assign variable 1 to variable 2
 
-            Console.WriteLine("values before modifications");  // Print before modifications
-            Console.WriteLine("Variable 1: " + R1.x); 
-            Console.WriteLine("Variable 2: " + R2.x);
+            //Console.WriteLine("values before modifications");  // Print before modifications
+            //Console.WriteLine("Variable 1: " + R1.x); 
+            //Console.WriteLine("Variable 2: " + R2.x);
 
           
-            R1.x = 524;                // Modify 1st Variable
+            //R1.x = 524;                // Modify 1st Variable
 
-            Console.WriteLine("values before modifications"); // Print after modifications
-            Console.WriteLine("Variable 1: " + R1.x);
-            Console.WriteLine("Variable 2: " + R2.x);
+            //Console.WriteLine("values before modifications"); // Print after modifications
+            //Console.WriteLine("Variable 1: " + R1.x);
+            //Console.WriteLine("Variable 2: " + R2.x);
 
             //Modifications will reflect on the both Variables because both refer to the same address as a reference type
 
